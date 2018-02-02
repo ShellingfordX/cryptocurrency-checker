@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Working
+
+# これは何?
+コインチェックのレートをタスクトレイに表示する小さなプログラムです。
+
+# インストール
+
+# ToDo
+
 
 You can use the [editor on GitHub](https://github.com/ShellingfordX/cryptocurrency-checker/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
